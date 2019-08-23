@@ -36,5 +36,10 @@ Primary tech for Hybrid tech
 - AWS
 - Big data - Spark, MongoDB, Tableau, Hadoop, Cloudera, Hive
 
+AI and Machine learning
+- https://appinventiv.com/blog/how-to-integrate-machine-learning-artificial-intelligence-into-apps/
+
+Developing - Coding using Technologies for implementing Product / Services
+
 
 
