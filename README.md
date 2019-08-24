@@ -41,5 +41,17 @@ AI and Machine learning
 
 Developing - Coding using Technologies for implementing Product / Services
 
+Certification Info
+https://hackernoon.com/the-10-most-in-demand-it-skills-and-certifications-of-2019-241242de685b
+https://www.edureka.co/blog/top-paying-it-certifications
+https://www.ciol.com/top-10-certifications-2019/
+https://www.pcmag.com/article/345434/the-10-highest-paying-it-certifications
+https://www.globalknowledge.com/us-en/resources/resource-library/articles/top-paying-certifications/
+
+
+
+
+
+
 
 
